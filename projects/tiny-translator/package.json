@@ -47,13 +47,13 @@
   "homepage": "https://github.com/martinroob/ngx-i18nsupport/projects/tiny-translator#readme",
   "dependencies": {
     "@ngx-i18nsupport/ngx-i18nsupport-lib": "^1.11.0",
-    "@types/js-base64": "^2.3.1",
+    "@types/js-base64": "^3.0.0",
     "core-js": "^3.0.0",
     "file-saver": "^2.0.0",
     "flag-icon-css": "^4.0.0",
-    "js-base64": "^2.5.1"
+    "js-base64": "^3.0.0"
   },
   "devDependencies": {
-    "replace": "^0.3.0"
+    "replace": "^1.0.0"
   }
 }
