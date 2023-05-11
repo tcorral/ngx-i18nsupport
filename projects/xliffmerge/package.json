@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/martinroob/ngx-i18nsupport#readme",
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^5.0.0",
     "he": "^1.1.1",
     "@ngx-i18nsupport/ngx-i18nsupport-lib": "^1.12.1",
     "request": "^2.85.0"
