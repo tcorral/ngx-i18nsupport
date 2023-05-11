@@ -58,7 +58,7 @@
     "cpx": "^1.5.0",
     "cross-env": "^7.0.0",
     "istanbul": "^0.4.5",
-    "jasmine-core": "~3.99.0",
+    "jasmine-core": "~4.6.0",
     "jasmine-node": "^1.14.5",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~3.1.4",
