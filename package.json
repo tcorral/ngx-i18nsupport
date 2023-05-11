@@ -67,7 +67,7 @@
     "karma-jasmine": "~2.0.1",
     "karma-jasmine-html-reporter": "^1.4.0",
     "lcov-result-merger": "^3.1.0",
-    "move-cli": "^1.2.0",
+    "move-cli": "^2.0.0",
     "ng-packagr": "^5.2.0",
     "protractor": "~5.4.2",
     "replace": "^1.0.1",
