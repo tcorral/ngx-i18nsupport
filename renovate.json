@@ -4,6 +4,6 @@
     "config:base"
   ],
   {
-    "prConcurrentLimit": 0
+    "prHourlyLimit": 23
   }
 }
