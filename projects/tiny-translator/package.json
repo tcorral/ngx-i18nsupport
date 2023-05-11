@@ -54,6 +54,6 @@
     "js-base64": "^2.5.1"
   },
   "devDependencies": {
-    "replace": "^0.3.0"
+    "replace": "^1.0.0"
   }
 }
