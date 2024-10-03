@@ -1,4 +1,4 @@
-FROM nginx:1.24.0-alpine
+FROM nginx:1.27.2-alpine
 LABEL maintainer="martinroob65@gmail.com" \
   description="A tiny little webapp to quick and dirty translate XLIFF 1.2, XLIFF 2.0 and XMB files"
 COPY projects/tiny-translator/Dockerhub/nginx.conf /etc/nginx/nginx.conf
